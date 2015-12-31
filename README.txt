@@ -1,1 +1,1 @@
-Este programa sirve para repartir a los niños de una clase en varios grupos.
+This is a program that helps teacher to distribute their students in groups.
